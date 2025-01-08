@@ -2,21 +2,6 @@
 About LabelImg
 ========
 
-.. image:: https://img.shields.io/pypi/v/labelimg.svg
-        :target: https://pypi.python.org/pypi/labelimg
-
-.. image:: https://img.shields.io/github/workflow/status/tzutalin/labelImg/Package?style=for-the-badge
-        :alt: GitHub Workflow Status
-
-.. image:: https://img.shields.io/badge/lang-en-blue.svg
-        :target: https://github.com/tzutalin/labelImg
-
-.. image:: https://img.shields.io/badge/lang-zh-green.svg
-        :target: https://github.com/tzutalin/labelImg/blob/master/readme/README.zh.rst
-
-.. image:: https://img.shields.io/badge/lang-jp-green.svg
-        :target: https://github.com/tzutalin/labelImg/blob/master/readme/README.jp.rst
-
 LabelImg is a graphical image annotation tool.
 
 It is written in Python and uses Qt for its graphical interface.
