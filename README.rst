@@ -19,7 +19,7 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
 
 Installation
 ------------------
-
+Note: These instructions are invalid for this updated version of the code. I recommend building from the git source. Instructions coming soon...
 
 Build from source
 ~~~~~~~~~~~~~~~~~
