@@ -45,16 +45,6 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
 Installation
 ------------------
 
-Get from PyPI but only python3.0 or above
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-This is the simplest (one-command) install method on modern Linux distributions such as Ubuntu and Fedora.
-
-.. code:: shell
-
-    pip3 install labelImg
-    labelImg
-    labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
-
 
 Build from source
 ~~~~~~~~~~~~~~~~~
